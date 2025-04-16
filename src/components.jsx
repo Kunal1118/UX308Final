@@ -8,7 +8,7 @@ import {
   
   function Question1(){
       return <section>
-  Mixing colours<br />
+  <br />
   <h2>results</h2>
   <p>colour_mix("red", "blue") == "{colour_mix("red", "blue")}"</p>
   <p>colour_mix("green", "blue") == "{colour_mix("green", "blue")}"</p>
@@ -18,7 +18,7 @@ import {
   
   function Question2(){
       return <section>
-  Largest product<br />
+  <br />
   <h2>results</h2>
   <p>largest_product(-8, 12, 20) == "{largest_product(-8, 12, 20)}"</p>
   <p>largest_product(5, 9, 2) == "{largest_product(5, 9, 2)}"</p>
@@ -28,7 +28,7 @@ import {
   
   function Question3(){
       return <section>
-  Day of the week<br />
+ <br />
   <h2>results</h2>
   <p>day_of_the_week(1) == "{day_of_the_week(1)}"</p>
   <p>day_of_the_week(4) == "{day_of_the_week(4)}"</p>
@@ -38,7 +38,7 @@ import {
   
   function Question4(){
       return <section>
-  Pay raise<br />
+  <br />
   <h2>results</h2>
   <p>pay_raise("F", 2, 25000) == "{pay_raise('F', 2, 25000)}"</p>
   <p>pay_raise("P", 11, 40000) == "{pay_raise('P', 11, 40000)}"</p>
@@ -48,7 +48,7 @@ import {
   
   function Question5(){
       return <section>
-  Leap year<br />
+  <br />
   <h2>results</h2>
   <p>is_leap(2020) == "{is_leap(2020).toString()}"</p>
   <p>is_leap(1900) == "{is_leap(1900).toString()}"</p>
