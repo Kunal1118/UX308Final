@@ -10,7 +10,7 @@ import {
       return <section>
   <br />
   <h2>Question 1</h2>
-  <p>colour_mix("red", "blue") == "{colour_mix("red", "blue")}"</p>
+  <p>colour_mix("blue", "blue") == "{colour_mix("blue", "blue")}"</p>
   <p>colour_mix("green", "blue") == "{colour_mix("green", "blue")}"</p>
   <p>colour_mix("red", "green") == "{colour_mix("red", "green")}"</p>
       </section>;
